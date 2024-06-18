@@ -1,0 +1,7 @@
+rich
+pandas
+Babel
+itables
+ipython
+jupyter
+matplotlib

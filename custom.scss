@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+$ut-blue:       #0094B3 !default;
+$ut-gray:       #ADAFAF !default;
+$ut-green:      #3F9C35 !default;
+$ut-cyan:       #63B1E5 !default;
+$ut-yellow:     #FED100 !default;
+$ut-red:        #C60C30 !default;
+$ut-light:      #FFFFFF !default;
+$ut-dark:       #000000 !default;   
+
+$primary:       $ut-blue !default;
+$secondary:     $ut-gray !default;
+$success:       $ut-green !default;
+$info:          $ut-cyan !default;
+$warning:       $ut-yellow !default;
+$danger:        $ut-red !default;
+$light:         $ut-light !default;
+$dark:          $ut-dark !default;
